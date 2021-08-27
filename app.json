@@ -1,0 +1,20 @@
+
+{
+  "expo": {
+    "name": "sample1",
+    "slug": "sample1",
+    "version": "1.0.0",
+    "sdkVersion": "42.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.anusikh.notes"
+    },
+    "splash": {
+      "image": "./assets/splash.png"
+    }
+  }
+}
